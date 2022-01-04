@@ -1,7 +1,2 @@
 # ignore maven build folder
 target/
-
-# eclipse JDT files
-.project
-.classpath
-*.prefs
